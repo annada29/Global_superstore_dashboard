@@ -76,7 +76,7 @@ The goal of this project was to simulate a real-world business reporting scenari
 
 ## 🚀 How to Run
 
-1. Download the cleaned dataset (`Global_superstore_dashboard/global_superstore_cleaned.xlsx`).
+1. Download the cleaned dataset (`global_superstore_cleaned.xlsx`).
 2. Open the Power BI file (`Global Superstore Dashboard.pbix`) in Power BI Desktop.
 3. Use the interactive filters to explore different regions, categories, and time periods.
 4. Review visual insights or export reports as needed.
